@@ -14,8 +14,8 @@ const clasificacion = [
   { nombre: "Ever", equipo: "Aston Martin", puntos: 0 },
   { nombre: "Jose Gabriel", equipo: "Porche", puntos: 0 },
   { nombre: "Jose Galindo", equipo: "Lamborghini", puntos: 0 },
-  { nombre: "Pendiente...", equipo: "BMW", puntos: 0 },
-  { nombre: "Pendiente...", equipo: "Renault", puntos: 0 },
+  { nombre: "Santiago Alvarado", equipo: "BMW", puntos: 0 },
+  { nombre: "Vitalino", equipo: "Renault", puntos: 0 },
   { nombre: "Pendiente...", equipo: "Ferrari", puntos: 0 }
 ];
 
