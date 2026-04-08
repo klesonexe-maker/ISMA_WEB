@@ -22,7 +22,7 @@ const clasificacion = [
 // Noticias
 const noticias = [
   { titulo: "Inicio de la temporada", contenido: "La liga ISMA 2026 arranca en Suzuka." },
-  { titulo: "Nueva pista confirmada", contenido: "Se agrega Mandalika Street Circuit al calendario." }
+  { titulo: "Nueva fecha para la clasificacion.", contenido: "La clasificacion se corre para el 8 de Abril" }
 ];
 
 // Renderizar calendario
