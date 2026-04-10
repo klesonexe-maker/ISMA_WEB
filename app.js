@@ -21,7 +21,7 @@ const clasificacion = [
 // Noticias
 const noticias = [
   { titulo: "Inicio de la temporada", contenido: "La liga ISMA 2026 arranca en Suzuka." },
-  { titulo: "inicio de SUZUKA GP RONDA #1.", contenido: "A las  3:30 comenzaran a prepararse los pilotos para ganar su pisto" }
+  { titulo: "inicio de SUZUKA GP RONDA #1.", contenido: "A las 4:00PM comenzaran a prepararse los pilotos para ganar su pisto" }
 ];
 
 // Renderizar calendario
