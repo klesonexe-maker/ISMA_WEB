@@ -8,21 +8,20 @@ const calendario = [
 
 // Clasificación
 const clasificacion = [
-  { nombre: "Pablo", equipo: "Toyota Redbull", puntos: 0 },
   { nombre: "Guillen", equipo: "Mercedes", puntos: 0 },
-  { nombre: "Gerardo", equipo: "Nissan MOTUL", puntos: 0 },
-  { nombre: "Ever", equipo: "Aston Martin", puntos: 0 },
   { nombre: "Jose Gabriel", equipo: "Porche", puntos: 0 },
+  { nombre: "Vitalino", equipo: "Alpine", puntos: 0 },
   { nombre: "Jose Galindo", equipo: "Lamborghini", puntos: 0 },
-  { nombre: "Santiago Alvarado #11", equipo: "BMW", puntos: 0 },
-  { nombre: "Vitalino #5", equipo: "Renault", puntos: 0 },
+  { nombre: "Gerardo", equipo: "Nissan Motul", puntos: 0 },
+  { nombre: "Santiago Alvarado", equipo: "BMW", puntos: 0 },
+  { nombre: "Pablo", equipo: "Toyota RedBull", puntos: 0 },
   { nombre: "Josue #10", equipo: "Ferrari", puntos: 0 }
 ];
 
 // Noticias
 const noticias = [
   { titulo: "Inicio de la temporada", contenido: "La liga ISMA 2026 arranca en Suzuka." },
-  { titulo: "Nueva fecha para la clasificacion.", contenido: "La clasificacion se corre para el 8 de Abril" }
+  { titulo: "inicio de SUZUKA GP RONDA #1.", contenido: "A las  3:30 comenzaran a prepararse los pilotos para ganar su pisto" }
 ];
 
 // Renderizar calendario
@@ -37,7 +36,7 @@ function mostrarCalendario() {
           <h3>RESULTADOS</h3>
           <ul>
             <li>P1</li><li>P2</li><li>P3</li><li>P4</li>
-            <li>P5</li><li>P6</li><li>P7</li><li>P8</li>
+            <li>P5</li><li>P6</li><li>P7</li><li>P8</li>P9</li>
           </ul>
         </div>
       </div>
